@@ -1,0 +1,6 @@
+t=(1,2,3,6,7)
+a=type(t)
+print(a)
+print(t)
+t.replace(1,4)
+print(t)
